@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article on R Markdown Gallery</title>
+    <link>https://pzhaonet.github.io/rmarkdown/tags/article/</link>
+    <description>Recent content in article on R Markdown Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/rmarkdown/tags/article/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bookdownplus_copernicus</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_copernicus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_copernicus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_elsevier</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_elsevier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_elsevier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_journal</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_mdpi</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mdpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mdpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_paper_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_paper_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_paper_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_article_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_article_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_article_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_manuscript_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_manuscript_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_manuscript_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_jss_paged</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_jss_paged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_jss_paged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pinp_pnas</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pinp_pnas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pinp_pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdTemplates_ms_ecoszstemas</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_ecoszstemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_ecoszstemas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdTemplates_ms_pdf</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdTemplates_ms_pdf_boettiger</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf_boettiger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf_boettiger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

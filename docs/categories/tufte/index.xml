@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tufte on R Markdown Gallery</title>
+    <link>https://pzhaonet.github.io/rmarkdown/categories/tufte/</link>
+    <description>Recent content in tufte on R Markdown Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/tufte/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tufte_book</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tufte_handout</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_handout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_handout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tufte_html</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_html/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

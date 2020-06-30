@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rosr on R Markdown Gallery</title>
+    <link>https://pzhaonet.github.io/rmarkdown/categories/rosr/</link>
+    <description>Recent content in rosr on R Markdown Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/rosr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>rosr_article_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_article_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_article_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_beamer</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_beamer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_beamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_cv_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_cv_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_cv_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_letter_moderncv</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_letter_moderncv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_letter_moderncv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_manuscript_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_manuscript_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_manuscript_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_statement_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_statement_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_statement_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_syllabus_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_syllabus_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_syllabus_svm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

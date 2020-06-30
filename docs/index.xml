@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Markdown Gallery</title>
+    <link>https://pzhaonet.github.io/rmarkdown/</link>
+    <description>Recent content on R Markdown Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jun 2020 12:05:33 +0530</lastBuildDate>
+    
+	<atom:link href="https://pzhaonet.github.io/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bookdownplus_calendar</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_calendar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_cchess</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cchess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cchess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_chemistry</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_chemistry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_chemistry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_chemistry_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_chemistry_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_chemistry_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_classic</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_classic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_classic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_copernicus</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_copernicus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_copernicus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_crc</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_crc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_crc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_cumt_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumt_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumt_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_cumtb_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumtb_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumtb_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_demo</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_demo_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_demo_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_demo_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_dnd</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_dnd_dev</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd_dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd_dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_docsens</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_docsens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_docsens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_elsevier</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_elsevier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_elsevier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_guitar</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_guitar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_guitar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_igo</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_igo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_igo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_journal</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_mail</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mail/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_mdpi</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mdpi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mdpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_mini</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_mini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_musix</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_musix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_musix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_nonpar</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_nonpar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_nonpar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_nte_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_nte_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_nte_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_paper_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_paper_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_paper_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_pku_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_pku_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_pku_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_poem</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_poem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_rbasics</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_rbasics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_rbasics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_skak</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_skak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_skak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_thesis_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_thesis_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_thesis_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_ubt</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ubt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ubt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_ucas_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ucas_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ucas_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_zju_zh</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_zju_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_zju_zh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmd_beamer_xiaoshan</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmd_beamer_xiaoshan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmd_beamer_xiaoshan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_article_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_article_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_article_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_beamer</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_beamer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_beamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_cv_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_cv_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_cv_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_letter_moderncv</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_letter_moderncv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_letter_moderncv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_manuscript_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_manuscript_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_manuscript_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_statement_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_statement_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_statement_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rosr_syllabus_svm</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_syllabus_svm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_syllabus_svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xjtlu_flyer</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_flyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_flyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xjtlu_html_report</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_html_report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_html_report/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xjtlu_poster</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xjtlu_slides</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_slides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binb_iqss</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_iqss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_iqss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binb_metropolis</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_metropolis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_metropolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binb_monash</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_monash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_monash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binb_presento</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_presento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_presento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>drposter_drposter</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/drposter_drposter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/drposter_drposter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hrbrthemes_ipsum</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/hrbrthemes_ipsum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/hrbrthemes_ipsum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linl_letter</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/linl_letter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/linl_letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdowntemplates_bulma</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/markdowntemplates_bulma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/markdowntemplates_bulma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdowntemplates_kickstart</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/markdowntemplates_kickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/markdowntemplates_kickstart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdowntemplates_skeleton</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/markdowntemplates_skeleton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/markdowntemplates_skeleton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_html_letter</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_html_letter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_html_letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_html_paged</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_html_paged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_html_paged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_html_resume</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_html_resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_html_resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_jss_paged</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_jss_paged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_jss_paged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_poster_jacobs</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_jacobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_jacobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_poster_relaxed</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_relaxed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_relaxed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pagedown_thesis_paged</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_thesis_paged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_thesis_paged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pinp_pnas</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pinp_pnas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pinp_pnas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prettydoc_architect</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_architect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_architect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prettydoc_cayman</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_cayman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_cayman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prettydoc_hpstr</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_hpstr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_hpstr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prettydoc_leonids</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_leonids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_leonids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prettydoc_tactile</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_tactile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/prettydoc_tactile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_cerulean</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cerulean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cerulean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_cosmo</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cosmo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cosmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_default</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_default/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_default/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_flatly</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_flatly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_flatly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_journal</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_journal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_lumen</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_lumen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_lumen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_paper</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_readable</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_readable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_readable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_sandstone</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_sandstone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_sandstone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_simplex</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_simplex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_simplex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_spacelab</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_spacelab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_spacelab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_united</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_united/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_united/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown_yeti</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_yeti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_yeti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdformats_clean</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_clean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_clean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdformats_docco</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_docco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_docco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdformats_material</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_material/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_material/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdformats_readthedown</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_readthedown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_readthedown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdshower_shower</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdshower_shower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdshower_shower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdTemplates_ms_ecoszstemas</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_ecoszstemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_ecoszstemas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdTemplates_ms_pdf</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmdTemplates_ms_pdf_boettiger</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf_boettiger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf_boettiger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thesisdown_thesis</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/thesisdown_thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/thesisdown_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tint_tintBook</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tint_tintbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tint_tintbook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tint_tintHtml</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tint_tinthtml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tint_tinthtml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tint_tintPdf</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tint_tintpdf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tint_tintpdf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tufte_book</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tufte_handout</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_handout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_handout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tufte_html</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/tufte_html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_illinois</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_illinois/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_illinois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_imetropolis</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_imetropolis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_imetropolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_mil</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_mil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_mil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_orange</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_html_imetropolis</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_html_imetropolis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_html_imetropolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xaringan_moon_reader</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xaringan_moon_reader/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xaringan_moon_reader/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

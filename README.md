@@ -1,2 +1,1 @@
-# rmarkdown
-Gallery for R Markdown Templates
+# R Markdown Gallery

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>binb on R Markdown Gallery</title>
+    <link>https://pzhaonet.github.io/rmarkdown/categories/binb/</link>
+    <description>Recent content in binb on R Markdown Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/binb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>binb_iqss</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_iqss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_iqss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binb_metropolis</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_metropolis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_metropolis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binb_monash</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_monash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_monash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>binb_presento</title>
+      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_presento/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_presento/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
