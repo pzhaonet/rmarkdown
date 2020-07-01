@@ -2,200 +2,209 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/categories/</link>
+    <link>https://rmd.pzhao.org/categories/</link>
     <description>Recent content in Categories on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>binb</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/binb/</link>
+      <link>https://rmd.pzhao.org/categories/binb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/binb/</guid>
+      <guid>https://rmd.pzhao.org/categories/binb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bookdownplus</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/bookdownplus/</link>
+      <link>https://rmd.pzhao.org/categories/bookdownplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/bookdownplus/</guid>
+      <guid>https://rmd.pzhao.org/categories/bookdownplus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>drposter</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/drposter/</link>
+      <link>https://rmd.pzhao.org/categories/drposter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/drposter/</guid>
+      <guid>https://rmd.pzhao.org/categories/drposter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hrbrthemes</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/hrbrthemes/</link>
+      <link>https://rmd.pzhao.org/categories/hrbrthemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/hrbrthemes/</guid>
+      <guid>https://rmd.pzhao.org/categories/hrbrthemes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linl</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/linl/</link>
+      <link>https://rmd.pzhao.org/categories/linl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/linl/</guid>
+      <guid>https://rmd.pzhao.org/categories/linl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdowntemplates</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/markdowntemplates/</link>
+      <link>https://rmd.pzhao.org/categories/markdowntemplates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/markdowntemplates/</guid>
+      <guid>https://rmd.pzhao.org/categories/markdowntemplates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pagedown</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/pagedown/</link>
+      <link>https://rmd.pzhao.org/categories/pagedown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/pagedown/</guid>
+      <guid>https://rmd.pzhao.org/categories/pagedown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pinp</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/pinp/</link>
+      <link>https://rmd.pzhao.org/categories/pinp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/pinp/</guid>
+      <guid>https://rmd.pzhao.org/categories/pinp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prettydoc</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/prettydoc/</link>
+      <link>https://rmd.pzhao.org/categories/prettydoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/prettydoc/</guid>
+      <guid>https://rmd.pzhao.org/categories/prettydoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/rmarkdown/</link>
+      <link>https://rmd.pzhao.org/categories/rmarkdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/rmarkdown/</guid>
+      <guid>https://rmd.pzhao.org/categories/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmd</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/rmd/</link>
+      <link>https://rmd.pzhao.org/categories/rmd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/rmd/</guid>
+      <guid>https://rmd.pzhao.org/categories/rmd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdformats</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/rmdformats/</link>
+      <link>https://rmd.pzhao.org/categories/rmdformats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/rmdformats/</guid>
+      <guid>https://rmd.pzhao.org/categories/rmdformats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdshower</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/rmdshower/</link>
+      <link>https://rmd.pzhao.org/categories/rmdshower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/rmdshower/</guid>
+      <guid>https://rmd.pzhao.org/categories/rmdshower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdTemplates</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/rmdtemplates/</link>
+      <link>https://rmd.pzhao.org/categories/rmdtemplates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/rmdtemplates/</guid>
+      <guid>https://rmd.pzhao.org/categories/rmdtemplates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rosr</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/rosr/</link>
+      <link>https://rmd.pzhao.org/categories/rosr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/rosr/</guid>
+      <guid>https://rmd.pzhao.org/categories/rosr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rticles</title>
+      <link>https://rmd.pzhao.org/categories/rticles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/categories/rticles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thesisdown</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/thesisdown/</link>
+      <link>https://rmd.pzhao.org/categories/thesisdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/thesisdown/</guid>
+      <guid>https://rmd.pzhao.org/categories/thesisdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tint</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/tint/</link>
+      <link>https://rmd.pzhao.org/categories/tint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/tint/</guid>
+      <guid>https://rmd.pzhao.org/categories/tint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tufte</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/tufte/</link>
+      <link>https://rmd.pzhao.org/categories/tufte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/tufte/</guid>
+      <guid>https://rmd.pzhao.org/categories/tufte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uiucthemes</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/uiucthemes/</link>
+      <link>https://rmd.pzhao.org/categories/uiucthemes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/uiucthemes/</guid>
+      <guid>https://rmd.pzhao.org/categories/uiucthemes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xaringan</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/xaringan/</link>
+      <link>https://rmd.pzhao.org/categories/xaringan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/xaringan/</guid>
+      <guid>https://rmd.pzhao.org/categories/xaringan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xjtlu</title>
-      <link>https://pzhaonet.github.io/rmarkdown/categories/xjtlu/</link>
+      <link>https://rmd.pzhao.org/categories/xjtlu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/categories/xjtlu/</guid>
+      <guid>https://rmd.pzhao.org/categories/xjtlu/</guid>
       <description></description>
     </item>
     

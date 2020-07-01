@@ -6,16 +6,16 @@ tags: [experimental]
 categories: bookdownplus
 ---
 
-
+Instert Chinese chess diagrams. (插入中国象棋棋谱.)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_cchess.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cchess.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_cchess.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cchess.png" width="60%"  align="left"></a></p>
 
-- Category: [experimental](../../tags/experimental)
+- Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)
 - Output format: pdf
-- Demo: DEMO
+- Demo: [Download](https://pzhaonet.github.io/bookdownplus/upload/cchess/showcase/cchess.pdf)
 - Author(s): [Peng Zhao](https://pzhao.org)
 - Link: [GitHub](https://github.com/pzhaonet/bookdownplus)
 

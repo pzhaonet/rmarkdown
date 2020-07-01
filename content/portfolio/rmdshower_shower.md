@@ -10,13 +10,13 @@ categories: rmdshower
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rmdshower_shower.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmdshower_shower.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/rmdshower_shower.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmdshower_shower.png" width="60%"  align="left"></a></p>
 
-- Category: [slides](../../tags/slides)
+- Class: [slides](../../tags/slides)
 - Package: [rmdshower](rmdshower)
 - Output format: html
-- Demo: DEMO
+- Demo: [View](http://mangothecat.github.io/rmdshower/skeleton.html)
 - Author(s): Vadim Makeev et al.
-- Link: [GitHub]https://github.com/MangoTheCat/rmdshower)
+- Link: [GitHub](https://github.com/MangoTheCat/rmdshower)
 
 

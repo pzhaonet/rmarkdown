@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rmarkdown on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/categories/rmarkdown/</link>
+    <link>https://rmd.pzhao.org/categories/rmarkdown/</link>
     <description>Recent content in rmarkdown on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/categories/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>rmarkdown_cerulean</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cerulean/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_cerulean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cerulean/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_cerulean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_cosmo</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cosmo/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_cosmo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_cosmo/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_cosmo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_default</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_default/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_default/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_default/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_default/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_flatly</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_flatly/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_flatly/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_flatly/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_flatly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_journal</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_journal/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_journal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_journal/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_journal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_lumen</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_lumen/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_lumen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_lumen/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_lumen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_paper</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_paper/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_paper/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_readable</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_readable/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_readable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_readable/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_readable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_sandstone</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_sandstone/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_sandstone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_sandstone/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_sandstone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_simplex</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_simplex/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_simplex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_simplex/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_simplex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_spacelab</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_spacelab/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_spacelab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_spacelab/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_spacelab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_united</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_united/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_united/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_united/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_united/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown_yeti</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_yeti/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmarkdown_yeti/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmarkdown_yeti/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmarkdown_yeti/</guid>
       <description></description>
     </item>
     

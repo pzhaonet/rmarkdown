@@ -6,16 +6,16 @@ tags: [experimental]
 categories: bookdownplus
 ---
 
-
+Insert Go game diagrams.
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_igo.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_igo.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_igo.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_igo.png" width="60%"  align="left"></a></p>
 
-- Category: [experimental](../../tags/experimental)
+- Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)
 - Output format: pdf
-- Demo: DEMO
+- Demo: [Download](https://pzhaonet.github.io/bookdownplus/upload/igo/showcase/igo.pdf)
 - Author(s): [Peng Zhao](https://pzhao.org)
 - Link: [GitHub](https://github.com/pzhaonet/bookdownplus)
 

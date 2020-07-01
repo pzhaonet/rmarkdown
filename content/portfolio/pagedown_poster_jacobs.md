@@ -10,12 +10,12 @@ categories: pagedown
 
 <!--more-->
 
-<p><a href="../../img/portfolio/pagedown_poster_jacobs.png"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_poster_jacobs.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/pagedown_poster_jacobs.png"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_poster_jacobs.png" width="60%"  align="left"></a></p>
 
-- Category: [poster](../../tags/poster)
+- Class: [poster](../../tags/poster)
 - Package: [pagedown](pagedown)
 - Output format: html
-- Demo: DEMO
+
 - Author(s): [Yihui Xie](https://yihui.org/) et al.
 - Link: [GitHub](https://github.com/rstudio/pagedown)
 

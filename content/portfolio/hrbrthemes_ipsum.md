@@ -6,16 +6,16 @@ tags: [report]
 categories: hrbrthemes
 ---
 
-
+Additional Themes and Theme Components for ‘ggplot2’
 
 <!--more-->
 
-<p><a href="../../img/portfolio/hrbrthemes_ipsum.png"><img class = "jf-image-shadow" src="../../img/portfolio/hrbrthemes_ipsum.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/hrbrthemes_ipsum.png"><img class = "jf-image-shadow" src="../../img/portfolio/hrbrthemes_ipsum.png" width="60%"  align="left"></a></p>
 
-- Category: [report](../../tags/report)
+- Class: [report](../../tags/report)
 - Package: [hrbrthemes](hrbrthemes)
 - Output format: html
-- Demo: DEMO
+
 - Author(s): Bob Rudis
 - Link: [GitHub](https://github.com/hrbrmstr/hrbrthemes)
 

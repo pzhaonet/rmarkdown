@@ -6,16 +6,16 @@ tags: [poster]
 categories: drposter
 ---
 
-
+Generate Academic Posters in R Markdown and CSS
 
 <!--more-->
 
-<p><a href="../../img/portfolio/drposter_drposter.png"><img class = "jf-image-shadow" src="../../img/portfolio/drposter_drposter.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/drposter_drposter.png"><img class = "jf-image-shadow" src="../../img/portfolio/drposter_drposter.png" width="60%"  align="left"></a></p>
 
-- Category: [poster](../../tags/poster)
+- Class: [poster](../../tags/poster)
 - Package: [drposter](drposter)
 - Output format: html
-- Demo: DEMO
+- Demo: [Download](https://github.com/bbucior/drposter/raw/master/inst/example/poster.pdf)
 - Author(s): Ben Bucior
 - Link: [GitHub](https://github.com/bbucior/drposter)
 

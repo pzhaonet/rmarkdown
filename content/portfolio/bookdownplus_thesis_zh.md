@@ -2,20 +2,20 @@
 image: "img/portfolio/bookdownplus_thesis_zh.png"
 title: "bookdownplus_thesis_zh"
 weight: 10
-tags: [thesis]
+tags: [thesis,chinese,college]
 categories: bookdownplus
 ---
 
-
+A simple template for thesis in Chinese. (简单的中文学位论文模板。)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_thesis_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_thesis_zh.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_thesis_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_thesis_zh.png" width="60%"  align="left"></a></p>
 
-- Category: [thesis](../../tags/thesis)
+- Class: [thesis](../../tags/thesis), [chinese](../../tags/chinese), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)
 - Output format: pdf
-- Demo: DEMO
+- Demo: [Download](https://pzhaonet.github.io/bookdownplus/inst2/thesis_zh/showcase/thesis_zh.pdf)
 - Author(s): [Peng Zhao](https://pzhao.org)
 - Link: [GitHub](https://github.com/pzhaonet/bookdownplus)
 

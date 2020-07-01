@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poster on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/tags/poster/</link>
+    <link>https://rmd.pzhao.org/tags/poster/</link>
     <description>Recent content in poster on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/tags/poster/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/tags/poster/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>xjtlu_poster</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_poster/</link>
+      <link>https://rmd.pzhao.org/portfolio/xjtlu_poster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_poster/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/xjtlu_poster/</guid>
+      <description>&lt;p&gt;西交利物浦大学海报&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>drposter_drposter</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/drposter_drposter/</link>
+      <link>https://rmd.pzhao.org/portfolio/drposter_drposter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/drposter_drposter/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/drposter_drposter/</guid>
+      <description>&lt;p&gt;Generate Academic Posters in R Markdown and CSS&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>pagedown_poster_jacobs</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_jacobs/</link>
+      <link>https://rmd.pzhao.org/portfolio/pagedown_poster_jacobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_jacobs/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/pagedown_poster_jacobs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pagedown_poster_relaxed</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_relaxed/</link>
+      <link>https://rmd.pzhao.org/portfolio/pagedown_poster_relaxed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_poster_relaxed/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/pagedown_poster_relaxed/</guid>
       <description></description>
     </item>
     

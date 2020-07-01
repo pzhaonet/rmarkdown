@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uiucthemes on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/categories/uiucthemes/</link>
+    <link>https://rmd.pzhao.org/categories/uiucthemes/</link>
     <description>Recent content in uiucthemes on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/uiucthemes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/categories/uiucthemes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>uiucthemes_beamer_illinois</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_illinois/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_illinois/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_illinois/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_illinois/</guid>
+      <description>&lt;p&gt;Illinois colored header boxes&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_beamer_imetropolis</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_imetropolis/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_imetropolis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_imetropolis/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_imetropolis/</guid>
+      <description>&lt;p&gt;Metropolis Theme with Illinois colors for Beamer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_beamer_mil</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_mil/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_mil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_mil/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_mil/</guid>
+      <description>&lt;p&gt;Beamer Market Information Lab (MIL)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_beamer_orange</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_orange/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_orange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_orange/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_orange/</guid>
+      <description>&lt;p&gt;Minimialist slides with a color preference to orange.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_html_imetropolis</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_html_imetropolis/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_html_imetropolis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_html_imetropolis/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_html_imetropolis/</guid>
+      <description>&lt;p&gt;&lt;code&gt;xaringan&lt;/code&gt;-powered Metropolis Theme for Illinois.&lt;/p&gt;</description>
     </item>
     
   </channel>

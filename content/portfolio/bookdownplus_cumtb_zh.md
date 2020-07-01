@@ -2,21 +2,21 @@
 image: "img/portfolio/bookdownplus_cumtb_zh.png"
 title: "bookdownplus_cumtb_zh"
 weight: 10
-tags: [thesis]
+tags: [thesis,chinese,college]
 categories: bookdownplus
 ---
 
-
+Thesis of China University of Mining and Technology, Beijing. (中国矿业大学（北京）学位论文模板.)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_cumtb_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cumtb_zh.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_cumtb_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cumtb_zh.png" width="60%"  align="left"></a></p>
 
-- Category: [thesis](../../tags/thesis)
+- Class: [thesis](../../tags/thesis), [chinese](../../tags/chinese), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)
 - Output format: pdf
-- Demo: DEMO
-- Author(s): [Peng Zhao](https://pzhao.org)
+- Demo: [Download](https://pzhaonet.github.io/bookdownplus/upload/cumtb_zh/showcase/cumtb.pdf)
+- Author(s): [Xiangyun Huang](https://www.xiangyunhuang.com.cn/)
 - Link: [GitHub](https://github.com/pzhaonet/bookdownplus)
 
 

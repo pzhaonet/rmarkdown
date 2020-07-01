@@ -10,13 +10,13 @@ categories: markdowntemplates
 
 <!--more-->
 
-<p><a href="../../img/portfolio/markdowntemplates_bulma.png"><img class = "jf-image-shadow" src="../../img/portfolio/markdowntemplates_bulma.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/markdowntemplates_bulma.png"><img class = "jf-image-shadow" src="../../img/portfolio/markdowntemplates_bulma.png" width="60%"  align="left"></a></p>
 
-- Category: [report](../../tags/report)
+- Class: [report](../../tags/report)
 - Package: [markdowntemplates](markdowntemplates)
 - Output format: html
-- Demo: DEMO
+
 - Author(s): Bob Rudis
 - Link: [GitHub](https://github.com/hrbrmstr/markdowntemplates)
 
-
+**bulma** (`output: markdowntemplates::bulma`) uses the [Bulma CSS framework](http://bulma.io/) and has optional `navlink` YAML header elements and also has support for arbitrary footer content & a subset of OpenGraph tags (see the example Rmd) which will be used in header of the generated file.

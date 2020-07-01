@@ -6,16 +6,16 @@ tags: [article]
 categories: pinp
 ---
 
-
+PNAS Article template
 
 <!--more-->
 
-<p><a href="../../img/portfolio/pinp_pnas.png"><img class = "jf-image-shadow" src="../../img/portfolio/pinp_pnas.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/pinp_pnas.png"><img class = "jf-image-shadow" src="../../img/portfolio/pinp_pnas.png" width="60%"  align="left"></a></p>
 
-- Category: [article](../../tags/article)
+- Class: [article](../../tags/article)
 - Package: [pinp](pinp)
 - Output format: pdf
-- Demo: DEMO
+
 - Author(s): Dirk Eddelbuettel and James Balamuta
 - Link: [GitHub](https://github.com/eddelbuettel/pinp)
 

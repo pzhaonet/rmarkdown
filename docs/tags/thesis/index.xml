@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thesis on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/tags/thesis/</link>
+    <link>https://rmd.pzhao.org/tags/thesis/</link>
     <description>Recent content in thesis on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bookdownplus_cumt_zh</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumt_zh/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_cumt_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumt_zh/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_cumt_zh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bookdownplus_cumtb_zh</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumtb_zh/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_cumtb_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cumtb_zh/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_cumtb_zh/</guid>
+      <description>&lt;p&gt;Thesis of China University of Mining and Technology, Beijing. (中国矿业大学（北京）学位论文模板.)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_pku_zh</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_pku_zh/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_pku_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_pku_zh/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_pku_zh/</guid>
+      <description>&lt;p&gt;Write a thesis of Peking University with R markdown syntax. (北京大学学位论文模板。)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_thesis_zh</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_thesis_zh/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_thesis_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_thesis_zh/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_thesis_zh/</guid>
+      <description>&lt;p&gt;A simple template for thesis in Chinese. (简单的中文学位论文模板。)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_ubt</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ubt/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_ubt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ubt/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_ubt/</guid>
+      <description>&lt;p&gt;Thesis of University of Bayreuth&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_ucas_zh</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ucas_zh/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_ucas_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_ucas_zh/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_ucas_zh/</guid>
+      <description>&lt;p&gt;Write a thesis of the University of Chinese Academy of Sciences. (中国科学院大学学位论文模板。)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_zju_zh</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_zju_zh/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_zju_zh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_zju_zh/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_zju_zh/</guid>
+      <description>&lt;p&gt;Thesis of Zhejiang Uni., in Chinese. (据说是浙江大学学位论文模板.)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>pagedown_thesis_paged</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_thesis_paged/</link>
+      <link>https://rmd.pzhao.org/portfolio/pagedown_thesis_paged/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/pagedown_thesis_paged/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/pagedown_thesis_paged/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thesisdown_thesis</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/thesisdown_thesis/</link>
+      <link>https://rmd.pzhao.org/portfolio/thesisdown_thesis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/thesisdown_thesis/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/thesisdown_thesis/</guid>
+      <description>&lt;p&gt;Work with the Reed College LaTeX template&lt;/p&gt;</description>
     </item>
     
   </channel>

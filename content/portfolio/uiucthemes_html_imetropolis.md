@@ -6,16 +6,16 @@ tags: [slides]
 categories: uiucthemes
 ---
 
-
+`xaringan`-powered Metropolis Theme for Illinois.
 
 <!--more-->
 
-<p><a href="../../img/portfolio/uiucthemes_html_imetropolis.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_html_imetropolis.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/uiucthemes_html_imetropolis.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_html_imetropolis.png" width="60%"  align="left"></a></p>
 
-- Category: [slides](../../tags/slides)
+- Class: [slides](../../tags/slides)
 - Package: [uiucthemes](uiucthemes)
 - Output format: html
-- Demo: DEMO
+
 - Author(s): James Balamuta
 - Link: [GitHub](https://github.com/illinois-r/uiucthemes)
 

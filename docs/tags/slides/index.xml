@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>slides on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/tags/slides/</link>
+    <link>https://rmd.pzhao.org/tags/slides/</link>
     <description>Recent content in slides on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/tags/slides/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/tags/slides/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>rmd_beamer_xiaoshan</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmd_beamer_xiaoshan/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmd_beamer_xiaoshan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmd_beamer_xiaoshan/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmd_beamer_xiaoshan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rosr_beamer</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_beamer/</link>
+      <link>https://rmd.pzhao.org/portfolio/rosr_beamer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_beamer/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rosr_beamer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xjtlu_slides</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_slides/</link>
+      <link>https://rmd.pzhao.org/portfolio/xjtlu_slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xjtlu_slides/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/xjtlu_slides/</guid>
+      <description>&lt;p&gt;西交利物浦大学幻灯片&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>binb_iqss</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_iqss/</link>
+      <link>https://rmd.pzhao.org/portfolio/binb_iqss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_iqss/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/binb_iqss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>binb_metropolis</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_metropolis/</link>
+      <link>https://rmd.pzhao.org/portfolio/binb_metropolis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_metropolis/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/binb_metropolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>binb_monash</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_monash/</link>
+      <link>https://rmd.pzhao.org/portfolio/binb_monash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_monash/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/binb_monash/</guid>
+      <description>&lt;p&gt;The Monash Business School theme&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>binb_presento</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/binb_presento/</link>
+      <link>https://rmd.pzhao.org/portfolio/binb_presento/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/binb_presento/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/binb_presento/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdshower_shower</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdshower_shower/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdshower_shower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdshower_shower/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdshower_shower/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uiucthemes_beamer_illinois</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_illinois/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_illinois/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_illinois/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_illinois/</guid>
+      <description>&lt;p&gt;Illinois colored header boxes&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_beamer_imetropolis</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_imetropolis/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_imetropolis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_imetropolis/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_imetropolis/</guid>
+      <description>&lt;p&gt;Metropolis Theme with Illinois colors for Beamer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_beamer_mil</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_mil/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_mil/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_mil/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_mil/</guid>
+      <description>&lt;p&gt;Beamer Market Information Lab (MIL)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_beamer_orange</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_orange/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_orange/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_beamer_orange/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_orange/</guid>
+      <description>&lt;p&gt;Minimialist slides with a color preference to orange.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>uiucthemes_html_imetropolis</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_html_imetropolis/</link>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_html_imetropolis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/uiucthemes_html_imetropolis/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_html_imetropolis/</guid>
+      <description>&lt;p&gt;&lt;code&gt;xaringan&lt;/code&gt;-powered Metropolis Theme for Illinois.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>xaringan_moon_reader</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/xaringan_moon_reader/</link>
+      <link>https://rmd.pzhao.org/portfolio/xaringan_moon_reader/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/xaringan_moon_reader/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/xaringan_moon_reader/</guid>
+      <description>&lt;p&gt;Create slideshows with &lt;a href=&#34;http://remarkjs.com/&#34;&gt;remark.js&lt;/a&gt; through R Markdown.&lt;/p&gt;</description>
     </item>
     
   </channel>

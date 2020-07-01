@@ -10,13 +10,13 @@ categories: rmdformats
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rmdformats_clean.jpg"><img class = "jf-image-shadow" src="../../img/portfolio/rmdformats_clean.jpg", width="60%"></a></p>
+<p><a href="../../img/portfolio/rmdformats_clean.jpg"><img class = "jf-image-shadow" src="../../img/portfolio/rmdformats_clean.jpg" width="60%"  align="left"></a></p>
 
-- Category: [report](../../tags/report)
+- Class: [report](../../tags/report)
 - Package: [rmdformats](rmdformats)
 - Output format: html
-- Demo: DEMO
+
 - Author(s): Julien Barnier
 - Link: [GitHub](https://github.com/juba/rmdformats)
 
-
+Simple and clean template with dynamic table of contents, very similar to the one from the great [knitrBootstrap package](https://github.com/jimhester/knitrBootstrap) by Jim Hester.

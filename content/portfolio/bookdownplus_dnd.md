@@ -6,16 +6,16 @@ tags: [experimental]
 categories: bookdownplus
 ---
 
-
+I don't know what on earth it is.
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_dnd.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_dnd.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_dnd.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_dnd.png" width="60%"  align="left"></a></p>
 
-- Category: [experimental](../../tags/experimental)
+- Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)
 - Output format: pdf
-- Demo: DEMO
+- Demo: [Download](https://pzhaonet.github.io/bookdownplus/upload/dnd/showcase/dnd_dev.pdf)
 - Author(s): [Peng Zhao](https://pzhao.org)
 - Link: [GitHub](https://github.com/pzhaonet/bookdownplus)
 

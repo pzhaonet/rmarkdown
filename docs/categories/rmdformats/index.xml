@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rmdformats on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/categories/rmdformats/</link>
+    <link>https://rmd.pzhao.org/categories/rmdformats/</link>
     <description>Recent content in rmdformats on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/rmdformats/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/categories/rmdformats/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>rmdformats_clean</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_clean/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdformats_clean/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_clean/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdformats_clean/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdformats_docco</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_docco/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdformats_docco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_docco/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdformats_docco/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdformats_material</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_material/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdformats_material/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_material/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdformats_material/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdformats_readthedown</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_readthedown/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdformats_readthedown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdformats_readthedown/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdformats_readthedown/</guid>
       <description></description>
     </item>
     

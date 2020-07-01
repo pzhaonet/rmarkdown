@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>college on R Markdown Gallery</title>
+    <link>https://rmd.pzhao.org/tags/college/</link>
+    <description>Recent content in college on R Markdown Gallery</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://rmd.pzhao.org/tags/college/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bookdownplus_cumtb_zh</title>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_cumtb_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_cumtb_zh/</guid>
+      <description>&lt;p&gt;Thesis of China University of Mining and Technology, Beijing. (中国矿业大学（北京）学位论文模板.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_pku_zh</title>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_pku_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_pku_zh/</guid>
+      <description>&lt;p&gt;Write a thesis of Peking University with R markdown syntax. (北京大学学位论文模板。)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_thesis_zh</title>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_thesis_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_thesis_zh/</guid>
+      <description>&lt;p&gt;A simple template for thesis in Chinese. (简单的中文学位论文模板。)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_ubt</title>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_ubt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_ubt/</guid>
+      <description>&lt;p&gt;Thesis of University of Bayreuth&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_ucas_zh</title>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_ucas_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_ucas_zh/</guid>
+      <description>&lt;p&gt;Write a thesis of the University of Chinese Academy of Sciences. (中国科学院大学学位论文模板。)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>bookdownplus_zju_zh</title>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_zju_zh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_zju_zh/</guid>
+      <description>&lt;p&gt;Thesis of Zhejiang Uni., in Chinese. (据说是浙江大学学位论文模板.)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>xjtlu_flyer</title>
+      <link>https://rmd.pzhao.org/portfolio/xjtlu_flyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/xjtlu_flyer/</guid>
+      <description>&lt;p&gt;西交利物浦大学传单&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>xjtlu_html_report</title>
+      <link>https://rmd.pzhao.org/portfolio/xjtlu_html_report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/xjtlu_html_report/</guid>
+      <description>&lt;p&gt;西交利物浦大学报告&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>xjtlu_poster</title>
+      <link>https://rmd.pzhao.org/portfolio/xjtlu_poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/xjtlu_poster/</guid>
+      <description>&lt;p&gt;西交利物浦大学海报&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>xjtlu_slides</title>
+      <link>https://rmd.pzhao.org/portfolio/xjtlu_slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/xjtlu_slides/</guid>
+      <description>&lt;p&gt;西交利物浦大学幻灯片&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>binb_monash</title>
+      <link>https://rmd.pzhao.org/portfolio/binb_monash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/binb_monash/</guid>
+      <description>&lt;p&gt;The Monash Business School theme&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pagedown_thesis_paged</title>
+      <link>https://rmd.pzhao.org/portfolio/pagedown_thesis_paged/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/pagedown_thesis_paged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_illinois</title>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_illinois/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_illinois/</guid>
+      <description>&lt;p&gt;Illinois colored header boxes&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_imetropolis</title>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_imetropolis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_imetropolis/</guid>
+      <description>&lt;p&gt;Metropolis Theme with Illinois colors for Beamer.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_mil</title>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_mil/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_mil/</guid>
+      <description>&lt;p&gt;Beamer Market Information Lab (MIL)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>uiucthemes_beamer_orange</title>
+      <link>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmd.pzhao.org/portfolio/uiucthemes_beamer_orange/</guid>
+      <description>&lt;p&gt;Minimialist slides with a color preference to orange.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

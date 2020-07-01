@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rmdTemplates on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/categories/rmdtemplates/</link>
+    <link>https://rmd.pzhao.org/categories/rmdtemplates/</link>
     <description>Recent content in rmdTemplates on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/categories/rmdtemplates/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/categories/rmdtemplates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>rmdTemplates_ms_ecoszstemas</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_ecoszstemas/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdtemplates_ms_ecoszstemas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_ecoszstemas/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdtemplates_ms_ecoszstemas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdTemplates_ms_pdf</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdtemplates_ms_pdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdtemplates_ms_pdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmdTemplates_ms_pdf_boettiger</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf_boettiger/</link>
+      <link>https://rmd.pzhao.org/portfolio/rmdtemplates_ms_pdf_boettiger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rmdtemplates_ms_pdf_boettiger/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rmdtemplates_ms_pdf_boettiger/</guid>
       <description></description>
     </item>
     

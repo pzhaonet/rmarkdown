@@ -2,128 +2,128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>experimental on R Markdown Gallery</title>
-    <link>https://pzhaonet.github.io/rmarkdown/tags/experimental/</link>
+    <link>https://rmd.pzhao.org/tags/experimental/</link>
     <description>Recent content in experimental on R Markdown Gallery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://pzhaonet.github.io/rmarkdown/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rmd.pzhao.org/tags/experimental/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>bookdownplus_calendar</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_calendar/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_calendar/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_calendar/</guid>
+      <description>&lt;p&gt;Insert monthly or weekly calendar.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_cchess</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cchess/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_cchess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_cchess/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_cchess/</guid>
+      <description>&lt;p&gt;Instert Chinese chess diagrams. (插入中国象棋棋谱.)&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_dnd</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_dnd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_dnd/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t know what on earth it is.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_dnd_dev</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd_dev/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_dnd_dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_dnd_dev/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_dnd_dev/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bookdownplus_guitar</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_guitar/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_guitar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_guitar/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_guitar/</guid>
+      <description>&lt;p&gt;Write a book with guitar chords.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_igo</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_igo/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_igo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_igo/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_igo/</guid>
+      <description>&lt;p&gt;Insert Go game diagrams.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_musix</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_musix/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_musix/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_musix/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_musix/</guid>
+      <description>&lt;p&gt;Typesetting music and related stuff.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_poem</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_poem/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_poem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_poem/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_poem/</guid>
+      <description>&lt;p&gt;A poem book.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>bookdownplus_skak</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_skak/</link>
+      <link>https://rmd.pzhao.org/portfolio/bookdownplus_skak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/bookdownplus_skak/</guid>
-      <description></description>
+      <guid>https://rmd.pzhao.org/portfolio/bookdownplus_skak/</guid>
+      <description>&lt;p&gt;Insert chess diagrams.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>rosr_cv_svm</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_cv_svm/</link>
+      <link>https://rmd.pzhao.org/portfolio/rosr_cv_svm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_cv_svm/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rosr_cv_svm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rosr_letter_moderncv</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_letter_moderncv/</link>
+      <link>https://rmd.pzhao.org/portfolio/rosr_letter_moderncv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_letter_moderncv/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rosr_letter_moderncv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rosr_statement_svm</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_statement_svm/</link>
+      <link>https://rmd.pzhao.org/portfolio/rosr_statement_svm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_statement_svm/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rosr_statement_svm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rosr_syllabus_svm</title>
-      <link>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_syllabus_svm/</link>
+      <link>https://rmd.pzhao.org/portfolio/rosr_syllabus_svm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://pzhaonet.github.io/rmarkdown/portfolio/rosr_syllabus_svm/</guid>
+      <guid>https://rmd.pzhao.org/portfolio/rosr_syllabus_svm/</guid>
       <description></description>
     </item>
     

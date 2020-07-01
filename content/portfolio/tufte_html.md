@@ -10,12 +10,12 @@ categories: tufte
 
 <!--more-->
 
-<p><a href="../../img/portfolio/tufte_html.png"><img class = "jf-image-shadow" src="../../img/portfolio/tufte_html.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/tufte_html.png"><img class = "jf-image-shadow" src="../../img/portfolio/tufte_html.png" width="60%"  align="left"></a></p>
 
-- Category: [report](../../tags/report)
+- Class: [report](../../tags/report)
 - Package: [tufte](tufte)
 - Output format: html
-- Demo: DEMO
+- Demo: [View](https://rstudio.github.io/tufte/)
 - Author(s): [Yihui Xie](https://yihui.org/) and JJ Allaire
 - Link: [GitHub](https://github.com/rstudio/tufte)
 

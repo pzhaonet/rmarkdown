@@ -6,17 +6,17 @@ tags: [book]
 categories: bookdownplus
 ---
 
-
+A book template from the book [A short course on nonparametric curve estimation](https://bookdown.org/egarpor/nonpar-eafit/)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_nonpar.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nonpar.png", width="60%"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_nonpar.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nonpar.png" width="60%"  align="left"></a></p>
 
-- Category: [book](../../tags/book)
+- Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)
 - Output format: pdf
-- Demo: DEMO
-- Author(s): [Peng Zhao](https://pzhao.org)
+- Demo: [Download](https://pzhaonet.github.io/bookdownplus/inst2/nonpar/showcase/nonpar.pdf)
+- Author(s): Eduardo García-Portugués
 - Link: [GitHub](https://github.com/pzhaonet/bookdownplus)
 
 
