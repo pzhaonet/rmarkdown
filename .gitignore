@@ -1,6 +1,6 @@
 r/
 temp/
-static/database/
+static/
 themes/
 -rmarkdown.Rproj
 config.toml

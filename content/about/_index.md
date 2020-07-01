@@ -5,7 +5,7 @@ title = "About"
 
 ## Introduction
 
-This site is a gallery for R Markdown templates/themes. Currently, 131 [templates/themes](../../portfolio) are collected, including 22 [packages](../../categories) classified in 12 [groups](../../tags). You could view the R Markdown templates by groups, see the live demos, and share your new discoveries. This is still far from a complete collection of R Markdown, thus your recommendations would be appreciated. Feel free to [send me an email](../../contact) or contribute to [the repo of this site](https://github.com/pzhaonet/rmarkdown). 
+This site is a gallery for R Markdown templates/themes. Currently, 131 [templates/themes](../../portfolio) are collected, including 22 [packages](../../categories) classified in 12 [groups](../../tags). You could view the R Markdown templates by groups, see the live demos, and share your new discoveries. This is still far from a complete collection of R Markdown, thus your recommendations would be appreciated. Feel free to [send me an email](../../contact) or contribute to [the repo of this site](https://github.com/pzhaonet/rmarkdown) (see the section *How to contribute*).
 
 [R Markdown](https://rmarkdown.rstudio.com/) is a fantastic toolbox in the [R](https://cran.r-project.org/) community. With R Markdown, you can produce a variety of reproducible documents for communication, including reports, scientific manuscripts, journal articles, theses, books, posters, slides, websites, etc., even if you do not know how to use R itself. They are platform-independent. This ecosystem is still growing fast. R Markdown is a demonstration that shows how much amazing work R can do besides data processing and visualization.
 
@@ -49,23 +49,25 @@ On the template page, you can find the thumbnail, the package name, the author, 
    - Adding code chunks (keyboard shortcut: `Ctrl + Alt + I`; OS X: `Cmd + Option + I`),
    - Writing prose with [Markdown formatting](https://www.markdowntutorial.com/).
 
-For more help getting started in R Markdown, please see the [R Markdown website](https://rmarkdown.rstudio.com/lesson-1.html), or read the following materials.
+For more help getting started in R Markdown, please see the [R Markdown website](https://rmarkdown.rstudio.com/lesson-1.html), or read the section *Learning materials*.
 
 ## Learning materials
 
-<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="30%"  align="left"></a></p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="25%"  align="left"></a></p>
 
 <br><br>
 
-<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-bookdown.jpg" width="30%"  align="left"></a></p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-bookdown.jpg" width="25%"  align="left"></a></p>
+
+<p><a href="https://bookdown.org/yihui/blogdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-blogdown.jpg" width="25%"  align="left"></a></p>
 
 <br><br>
 
-<p><a href="https://bookdown.org/yihui/blogdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-blogdown.jpg" width="30%"  align="left"></a></p>
+<p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="25%"  align="left"></a></p>
 
-<br><br>
+## How to contribute
 
-<p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="30%"  align="left"></a></p>
+If you would like to share an R Markdown template/theme, simply follow this procedure:
 
-
-
+1. Go to the [GitHub repo of this site](https://github.com/pzhaonet/rmarkdown), and navigate to "[content/portfolio/"](https://github.com/pzhaonet/rmarkdown/tree/master/content/portfolio).
+2. Create a new post in markdown. You could open an existing post such as "[xjtlu_poster.md](https://raw.githubusercontent.com/pzhaonet/rmarkdown/master/content/portfolio/xjtlu_poster.md)", copy everything and paste to your new post, commit the change, and push.
