@@ -10,7 +10,7 @@ categories: rticles
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/rticles_copernicus_article.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/rticles_copernicus_article.png"><img class = "jf-image-shadow" src="../../img/portfolio/rticles_copernicus_article.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [article](../../tags/article)
 - Package: [rticles](rticles)

@@ -10,7 +10,7 @@ Use bicaption instead of caption in bookdown
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_bicaption.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/bookdownplus_bicaption.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_bicaption.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [book](../../tags/book), [chinese](../../tags/chinese)
 - Package: [bookdownplus](bookdownplus)

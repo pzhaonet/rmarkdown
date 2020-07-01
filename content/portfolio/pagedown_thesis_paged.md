@@ -10,7 +10,7 @@ categories: pagedown
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/pagedown_thesis_paged.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/pagedown_thesis_paged.png"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_thesis_paged.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [thesis](../../tags/thesis), [college](../../tags/college)
 - Package: [pagedown](pagedown)

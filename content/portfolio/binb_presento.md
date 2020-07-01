@@ -10,7 +10,7 @@ categories: binb
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/binb_presento.gif" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/binb_presento.gif"><img class = "jf-image-shadow" src="../../img/portfolio/binb_presento.gif" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [slides](../../tags/slides)
 - Package: [binb](binb)

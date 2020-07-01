@@ -10,7 +10,7 @@ categories: rosr
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/rosr_letter_moderncv.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/rosr_letter_moderncv.png"><img class = "jf-image-shadow" src="../../img/portfolio/rosr_letter_moderncv.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [experimental](../../tags/experimental)
 - Package: [rosr](rosr)

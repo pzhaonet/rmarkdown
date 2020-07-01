@@ -10,7 +10,7 @@ categories: rmd
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/rmd_beamer_xiaoshan.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/rmd_beamer_xiaoshan.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmd_beamer_xiaoshan.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [slides](../../tags/slides), [chinese](../../tags/chinese)
 - Package: [rmd](rmd)

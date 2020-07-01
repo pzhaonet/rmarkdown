@@ -10,7 +10,7 @@ categories: pagedown
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/pagedown_html_resume.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/pagedown_html_resume.png"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_html_resume.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [resume](../../tags/resume)
 - Package: [pagedown](pagedown)

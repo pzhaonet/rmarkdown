@@ -10,7 +10,7 @@ Thesis of Zhejiang Uni., in Chinese. (据说是浙江大学学位论文模板.)
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_zju_zh.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/bookdownplus_zju_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_zju_zh.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [thesis](../../tags/thesis), [chinese](../../tags/chinese), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)

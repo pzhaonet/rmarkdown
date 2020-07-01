@@ -10,7 +10,7 @@ categories: xjtlu
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/xjtlu_poster.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/xjtlu_poster.png"><img class = "jf-image-shadow" src="../../img/portfolio/xjtlu_poster.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [poster](../../tags/poster), [college](../../tags/college)
 - Package: [xjtlu](xjtlu)

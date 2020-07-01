@@ -10,7 +10,7 @@ Write a book with guitar chords.
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_guitar.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/bookdownplus_guitar.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_guitar.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)

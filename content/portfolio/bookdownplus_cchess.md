@@ -10,7 +10,7 @@ Instert Chinese chess diagrams. (插入中国象棋棋谱.)
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cchess.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/bookdownplus_cchess.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cchess.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)

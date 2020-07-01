@@ -10,7 +10,7 @@ categories: prettydoc
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/prettydoc_cayman.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/prettydoc_cayman.png"><img class = "jf-image-shadow" src="../../img/portfolio/prettydoc_cayman.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [report](../../tags/report)
 - Package: [prettydoc](prettydoc)

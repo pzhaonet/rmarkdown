@@ -10,7 +10,7 @@ categories: rticles
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/rticles_ctex.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/rticles_ctex.png"><img class = "jf-image-shadow" src="../../img/portfolio/rticles_ctex.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [article](../../tags/article), [chinese](../../tags/chinese)
 - Package: [rticles](rticles)

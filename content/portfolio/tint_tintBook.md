@@ -10,7 +10,7 @@ categories: tint
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/tint_tintBook.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/tint_tintBook.png"><img class = "jf-image-shadow" src="../../img/portfolio/tint_tintBook.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [book](../../tags/book)
 - Package: [tint](tint)

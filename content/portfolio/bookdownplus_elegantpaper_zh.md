@@ -10,7 +10,7 @@ Paper in Chinese
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_elegantpaper_zh.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/bookdownplus_elegantpaper_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_elegantpaper_zh.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [article](../../tags/article), [chinese](../../tags/chinese)
 - Package: [bookdownplus](bookdownplus)

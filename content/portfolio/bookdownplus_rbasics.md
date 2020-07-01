@@ -10,7 +10,7 @@ A template from the book [Getting used to R, RStudio, and R Markdown](https://is
 
 <!--more-->
 
-<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_rbasics.png" style="display: block; margin: auto;" width="60%"  align="left">
+<a href="../../img/portfolio/bookdownplus_rbasics.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_rbasics.png" style="display: block; margin: auto;" width="60%"></a>
 
 - Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)
