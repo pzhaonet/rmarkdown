@@ -10,9 +10,7 @@ categories: xjtlu
 
 <!--more-->
 
-<p><a href="../../img/portfolio/xjtlu_html_report.png"><img class = "jf-image-shadow" src="../../img/portfolio/xjtlu_html_report.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/xjtlu_html_report.png"><img class = "jf-image-shadow" src="../../img/portfolio/xjtlu_html_report.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [report](../../tags/report), [college](../../tags/college)
 - Package: [xjtlu](xjtlu)

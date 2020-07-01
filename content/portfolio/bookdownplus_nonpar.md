@@ -10,9 +10,7 @@ A book template from the book [A short course on nonparametric curve estimation]
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_nonpar.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nonpar.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/bookdownplus_nonpar.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nonpar.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)

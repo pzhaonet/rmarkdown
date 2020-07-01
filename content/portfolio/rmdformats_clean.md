@@ -10,9 +10,7 @@ categories: rmdformats
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rmdformats_clean.jpg"><img class = "jf-image-shadow" src="../../img/portfolio/rmdformats_clean.jpg" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/rmdformats_clean.jpg"><img class = "jf-image-shadow" src="../../img/portfolio/rmdformats_clean.jpg" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [report](../../tags/report)
 - Package: [rmdformats](rmdformats)

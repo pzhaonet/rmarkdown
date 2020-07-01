@@ -10,9 +10,7 @@ categories: tint
 
 <!--more-->
 
-<p><a href="../../img/portfolio/tint_tintPdf.png"><img class = "jf-image-shadow" src="../../img/portfolio/tint_tintPdf.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/tint_tintPdf.png"><img class = "jf-image-shadow" src="../../img/portfolio/tint_tintPdf.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [report](../../tags/report)
 - Package: [tint](tint)

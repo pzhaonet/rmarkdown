@@ -10,9 +10,7 @@ Generate Academic Posters in R Markdown and CSS
 
 <!--more-->
 
-<p><a href="../../img/portfolio/drposter_drposter.png"><img class = "jf-image-shadow" src="../../img/portfolio/drposter_drposter.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/drposter_drposter.png"><img class = "jf-image-shadow" src="../../img/portfolio/drposter_drposter.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [poster](../../tags/poster)
 - Package: [drposter](drposter)

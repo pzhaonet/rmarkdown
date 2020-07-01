@@ -10,9 +10,7 @@ categories: tufte
 
 <!--more-->
 
-<p><a href="../../img/portfolio/tufte_handout.png"><img class = "jf-image-shadow" src="../../img/portfolio/tufte_handout.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/tufte_handout.png"><img class = "jf-image-shadow" src="../../img/portfolio/tufte_handout.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [report](../../tags/report)
 - Package: [tufte](tufte)

@@ -10,9 +10,7 @@ categories: rosr
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rosr_article_svm.png"><img class = "jf-image-shadow" src="../../img/portfolio/rosr_article_svm.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/rosr_article_svm.png"><img class = "jf-image-shadow" src="../../img/portfolio/rosr_article_svm.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [article](../../tags/article), [chinese](../../tags/chinese)
 - Package: [rosr](rosr)

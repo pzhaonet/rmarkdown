@@ -10,9 +10,7 @@ The Monash Business School theme
 
 <!--more-->
 
-<p><a href="../../img/portfolio/binb_monash.gif"><img class = "jf-image-shadow" src="../../img/portfolio/binb_monash.gif" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/binb_monash.gif"><img class = "jf-image-shadow" src="../../img/portfolio/binb_monash.gif" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [slides](../../tags/slides), [college](../../tags/college)
 - Package: [binb](binb)

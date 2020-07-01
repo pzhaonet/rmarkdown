@@ -10,9 +10,7 @@ categories: tufte
 
 <!--more-->
 
-<p><a href="../../img/portfolio/tufte_book.png"><img class = "jf-image-shadow" src="../../img/portfolio/tufte_book.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/tufte_book.png"><img class = "jf-image-shadow" src="../../img/portfolio/tufte_book.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [book](../../tags/book)
 - Package: [tufte](tufte)

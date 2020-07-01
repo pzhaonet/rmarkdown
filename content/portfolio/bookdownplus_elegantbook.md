@@ -10,9 +10,7 @@ Elegant book. Experimental
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_elegantbook.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_elegantbook.png" width="60%"  align="left"></a></p>
-
-<br><br>
+<p><a href="../../img/portfolio/bookdownplus_elegantbook.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_elegantbook.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
 
 - Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)
