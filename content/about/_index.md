@@ -5,7 +5,7 @@ title = "About"
 
 ## Introduction
 
-This site is a gallery for R Markdown templates/themes. Currently, 131 [templates/themes](../../portfolio) are collected, including 22 [packages](../../categories) classified in 12 [groups](../../tags).
+This site is a gallery for R Markdown templates/themes. Currently, 131 [templates/themes](../../portfolio) are collected, including 22 [packages](../../categories) classified in 12 [groups](../../tags). You could view the R Markdown templates by groups, see the live demos, and share your new discoveries. This is still far from a complete collection of R Markdown, thus your recommendations would be appreciated. Feel free to [send me an email](../../contact) or contribute to [the repo of this site](https://github.com/pzhaonet/rmarkdown). 
 
 [R Markdown](https://rmarkdown.rstudio.com/) is a fantastic toolbox in the [R](https://cran.r-project.org/) community. With R Markdown, you can produce a variety of reproducible documents for communication, including reports, scientific manuscripts, journal articles, theses, books, posters, slides, websites, etc., even if you do not know how to use R itself. They are platform-independent. This ecosystem is still growing fast. R Markdown is a demonstration that shows how much amazing work R can do besides data processing and visualization.
 
@@ -14,8 +14,6 @@ The R Markdown world is huge. After years of using R Markdown, I collected many 
 The other day @[Cloud2016](https://d.cosx.org/u/Cloud2016) shared [another nice beamer template](https://d.cosx.org/d/421591). I raised the question again, "how do you guys organize your collection of templates?" Later an idea came into my mind: why not build a website?
 
 That is basically why you see this site.
-
-On this site you can view the R Markdown templates by groups, see the live demos, and share your new discoveries. This is still far from a complete collection of R Markdown, thus your recommendations would be appreciated. 
 
 Note that the R blogdown package is not displayed on this website, as the [Hugo theme gallery](https://themes.gohugo.io/) is already available. 
 
@@ -55,12 +53,19 @@ For more help getting started in R Markdown, please see the [R Markdown website]
 
 ## Learning materials
 
-<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="60%"  align="left"></a></p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="30%"  align="left"></a></p>
 
-<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-bookdown.jpg" width="60%"  align="left"></a></p>
+<br><br>
 
-<p><a href="https://bookdown.org/yihui/blogdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-blogdown.jpg" width="60%"  align="left"></a></p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-bookdown.jpg" width="30%"  align="left"></a></p>
 
-<p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="60%"  align="left"></a></p>
+<br><br>
+
+<p><a href="https://bookdown.org/yihui/blogdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-blogdown.jpg" width="30%"  align="left"></a></p>
+
+<br><br>
+
+<p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="30%"  align="left"></a></p>
+
 
 
