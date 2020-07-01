@@ -10,7 +10,9 @@ categories: rticles
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rticles_agu_article.png"><img class = "jf-image-shadow" src="../../img/portfolio/rticles_agu_article.png" width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/rticles_agu_article.png"><img class = "jf-image-shadow" src="../../img/portfolio/rticles_agu_article.png", width="60%"  align="left"></a></p>
+
+
 
 - Class: [article](../../tags/article)
 - Package: [rticles](rticles)

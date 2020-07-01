@@ -10,7 +10,9 @@ Write academic manuscript in Chinese with bilingual titles, author lists, abstra
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_paper_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_paper_zh.png" width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_paper_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_paper_zh.png", width="60%"  align="left"></a></p>
+
+
 
 - Class: [article](../../tags/article), [chinese](../../tags/chinese)
 - Package: [bookdownplus](bookdownplus)

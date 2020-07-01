@@ -10,7 +10,9 @@ categories: prettydoc
 
 <!--more-->
 
-<p><a href="../../img/portfolio/prettydoc_hpstr.png"><img class = "jf-image-shadow" src="../../img/portfolio/prettydoc_hpstr.png" width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/prettydoc_hpstr.png"><img class = "jf-image-shadow" src="../../img/portfolio/prettydoc_hpstr.png", width="60%"  align="left"></a></p>
+
+
 
 - Class: [report](../../tags/report)
 - Package: [prettydoc](prettydoc)

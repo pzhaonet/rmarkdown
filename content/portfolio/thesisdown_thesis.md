@@ -10,7 +10,9 @@ Work with the Reed College LaTeX template
 
 <!--more-->
 
-<p><a href="../../img/portfolio/thesisdown_thesis.png"><img class = "jf-image-shadow" src="../../img/portfolio/thesisdown_thesis.png" width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/thesisdown_thesis.png"><img class = "jf-image-shadow" src="../../img/portfolio/thesisdown_thesis.png", width="60%"  align="left"></a></p>
+
+
 
 - Class: [thesis](../../tags/thesis)
 - Package: [thesisdown](thesisdown)

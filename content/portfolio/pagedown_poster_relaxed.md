@@ -10,7 +10,9 @@ categories: pagedown
 
 <!--more-->
 
-<p><a href="../../img/portfolio/pagedown_poster_relaxed.jpg"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_poster_relaxed.jpg" width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/pagedown_poster_relaxed.jpg"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_poster_relaxed.jpg", width="60%"  align="left"></a></p>
+
+
 
 - Class: [poster](../../tags/poster)
 - Package: [pagedown](pagedown)

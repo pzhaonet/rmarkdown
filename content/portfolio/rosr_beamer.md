@@ -10,7 +10,9 @@ categories: rosr
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rosr_beamer.png"><img class = "jf-image-shadow" src="../../img/portfolio/rosr_beamer.png" width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/rosr_beamer.png"><img class = "jf-image-shadow" src="../../img/portfolio/rosr_beamer.png", width="60%"  align="left"></a></p>
+
+
 
 - Class: [slides](../../tags/slides), [chinese](../../tags/chinese)
 - Package: [rosr](rosr)

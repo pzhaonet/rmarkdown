@@ -10,7 +10,9 @@ categories: binb
 
 <!--more-->
 
-<p><a href="../../img/portfolio/binb_metropolis.gif"><img class = "jf-image-shadow" src="../../img/portfolio/binb_metropolis.gif" width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/binb_metropolis.gif"><img class = "jf-image-shadow" src="../../img/portfolio/binb_metropolis.gif", width="60%"  align="left"></a></p>
+
+
 
 - Class: [slides](../../tags/slides)
 - Package: [binb](binb)
