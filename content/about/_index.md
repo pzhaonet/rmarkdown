@@ -53,17 +53,19 @@ For more help getting started in R Markdown, please see the [R Markdown website]
 
 ## Learning materials
 
-<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="25%"  align="left"></a></p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="30%"  align="left"></a> </p>
 
-<br><br>
+<br>
 
-<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-bookdown.jpg" width="25%"  align="left"></a></p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-bookdown.jpg" width="30%"  align="left"></a> </p>
 
-<p><a href="https://bookdown.org/yihui/blogdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-blogdown.jpg" width="25%"  align="left"></a></p>
+<br>
 
-<br><br>
+<p><a href="https://bookdown.org/yihui/blogdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-blogdown.jpg" width="30%"  align="left"></a> </p>
 
-<p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="25%"  align="left"></a></p>
+<br>
+
+<p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="30%"  align="left"></a> </p>
 
 ## How to contribute
 
