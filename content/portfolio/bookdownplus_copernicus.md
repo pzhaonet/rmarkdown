@@ -10,9 +10,9 @@ Write academic papers of Copernicus journals. Support both the two-columned pdf 
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_copernicus.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_copernicus.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_copernicus.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_copernicus.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [article](../../tags/article)
 - Package: [bookdownplus](bookdownplus)

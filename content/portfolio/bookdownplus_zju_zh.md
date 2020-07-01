@@ -10,9 +10,9 @@ Thesis of Zhejiang Uni., in Chinese. (据说是浙江大学学位论文模板.)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_zju_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_zju_zh.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_zju_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_zju_zh.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [thesis](../../tags/thesis), [chinese](../../tags/chinese), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)

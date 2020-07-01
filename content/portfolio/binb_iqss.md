@@ -10,9 +10,9 @@ categories: binb
 
 <!--more-->
 
-<p><a href="../../img/portfolio/binb_iqss.gif"><img class = "jf-image-shadow" src="../../img/portfolio/binb_iqss.gif", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/binb_iqss.gif"><img class = "jf-image-shadow" src="../../img/portfolio/binb_iqss.gif" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [slides](../../tags/slides)
 - Package: [binb](binb)

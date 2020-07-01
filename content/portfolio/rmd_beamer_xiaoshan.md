@@ -10,9 +10,9 @@ categories: rmd
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rmd_beamer_xiaoshan.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmd_beamer_xiaoshan.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/rmd_beamer_xiaoshan.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmd_beamer_xiaoshan.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [slides](../../tags/slides), [chinese](../../tags/chinese)
 - Package: [rmd](rmd)

@@ -10,9 +10,9 @@ categories: pagedown
 
 <!--more-->
 
-<p><a href="../../img/portfolio/pagedown_thesis_paged.png"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_thesis_paged.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/pagedown_thesis_paged.png"><img class = "jf-image-shadow" src="../../img/portfolio/pagedown_thesis_paged.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [thesis](../../tags/thesis), [college](../../tags/college)
 - Package: [pagedown](pagedown)

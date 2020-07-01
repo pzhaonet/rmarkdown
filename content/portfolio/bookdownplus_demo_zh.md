@@ -10,9 +10,9 @@ categories: bookdownplus
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_demo_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_demo_zh.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_demo_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_demo_zh.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [book](../../tags/book), [chinese](../../tags/chinese)
 - Package: [bookdownplus](bookdownplus)

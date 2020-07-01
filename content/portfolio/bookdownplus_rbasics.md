@@ -10,9 +10,9 @@ A template from the book [Getting used to R, RStudio, and R Markdown](https://is
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_rbasics.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_rbasics.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_rbasics.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_rbasics.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)

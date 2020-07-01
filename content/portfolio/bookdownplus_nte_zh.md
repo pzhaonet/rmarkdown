@@ -10,9 +10,9 @@ A template from Nothing to envy, in Chinese. (中文散文模板。)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_nte_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nte_zh.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_nte_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nte_zh.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [book](../../tags/book), [chinese](../../tags/chinese)
 - Package: [bookdownplus](bookdownplus)

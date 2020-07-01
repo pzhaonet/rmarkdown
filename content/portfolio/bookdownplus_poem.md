@@ -10,9 +10,9 @@ A poem book.
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_poem.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_poem.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/bookdownplus_poem.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_poem.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)

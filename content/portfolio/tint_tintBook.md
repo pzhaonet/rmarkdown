@@ -10,9 +10,9 @@ categories: tint
 
 <!--more-->
 
-<p><a href="../../img/portfolio/tint_tintBook.png"><img class = "jf-image-shadow" src="../../img/portfolio/tint_tintBook.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/tint_tintBook.png"><img class = "jf-image-shadow" src="../../img/portfolio/tint_tintBook.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [book](../../tags/book)
 - Package: [tint](tint)

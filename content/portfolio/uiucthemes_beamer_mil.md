@@ -10,9 +10,9 @@ Beamer Market Information Lab (MIL)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/uiucthemes_beamer_mil.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_beamer_mil.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/uiucthemes_beamer_mil.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_beamer_mil.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [slides](../../tags/slides), [college](../../tags/college)
 - Package: [uiucthemes](uiucthemes)

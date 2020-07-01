@@ -10,9 +10,9 @@ categories: rmarkdown
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rmarkdown_yeti.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmarkdown_yeti.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/rmarkdown_yeti.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmarkdown_yeti.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [report](../../tags/report)
 - Package: [rmarkdown](rmarkdown)

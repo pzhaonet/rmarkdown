@@ -10,9 +10,9 @@ categories: markdowntemplates
 
 <!--more-->
 
-<p><a href="../../img/portfolio/markdowntemplates_skeleton.png"><img class = "jf-image-shadow" src="../../img/portfolio/markdowntemplates_skeleton.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/markdowntemplates_skeleton.png"><img class = "jf-image-shadow" src="../../img/portfolio/markdowntemplates_skeleton.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [report](../../tags/report)
 - Package: [markdowntemplates](markdowntemplates)

@@ -10,9 +10,9 @@ categories: rmdTemplates
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rmdTemplates_ms_ecoszstemas.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmdTemplates_ms_ecoszstemas.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/rmdTemplates_ms_ecoszstemas.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmdTemplates_ms_ecoszstemas.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [article](../../tags/article)
 - Package: [rmdTemplates](rmdtemplates)

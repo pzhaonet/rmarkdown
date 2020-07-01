@@ -10,9 +10,9 @@ categories: xjtlu
 
 <!--more-->
 
-<p><a href="../../img/portfolio/xjtlu_slides.png"><img class = "jf-image-shadow" src="../../img/portfolio/xjtlu_slides.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/xjtlu_slides.png"><img class = "jf-image-shadow" src="../../img/portfolio/xjtlu_slides.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [slides](../../tags/slides), [college](../../tags/college)
 - Package: [xjtlu](xjtlu)

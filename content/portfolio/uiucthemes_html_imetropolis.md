@@ -10,9 +10,9 @@ categories: uiucthemes
 
 <!--more-->
 
-<p><a href="../../img/portfolio/uiucthemes_html_imetropolis.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_html_imetropolis.png", width="60%"  align="left"></a></p>
+<p><a href="../../img/portfolio/uiucthemes_html_imetropolis.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_html_imetropolis.png" width="60%"  align="left"></a></p>
 
-
+<br><br>
 
 - Class: [slides](../../tags/slides)
 - Package: [uiucthemes](uiucthemes)
