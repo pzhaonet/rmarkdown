@@ -10,7 +10,7 @@ Write a chemistry book in Chinese. (中文文档插入化学符号.)
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_chemistry_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_chemistry_zh.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
+<a href="../../img/portfolio/bookdownplus_chemistry_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_chemistry_zh.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
 
 - Class: [book](../../tags/book), [chinese](../../tags/chinese)
 - Package: [bookdownplus](bookdownplus)

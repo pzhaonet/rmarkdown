@@ -10,7 +10,7 @@ categories: markdowntemplates
 
 <!--more-->
 
-<p><a href="../../img/portfolio/markdowntemplates_bulma.png"><img class = "jf-image-shadow" src="../../img/portfolio/markdowntemplates_bulma.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
+<a href="../../img/portfolio/markdowntemplates_bulma.png"><img class = "jf-image-shadow" src="../../img/portfolio/markdowntemplates_bulma.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
 
 - Class: [report](../../tags/report)
 - Package: [markdowntemplates](markdowntemplates)

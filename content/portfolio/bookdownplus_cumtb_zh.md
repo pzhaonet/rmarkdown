@@ -10,7 +10,7 @@ Thesis of China University of Mining and Technology, Beijing. (中国矿业大�
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_cumtb_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cumtb_zh.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
+<a href="../../img/portfolio/bookdownplus_cumtb_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_cumtb_zh.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
 
 - Class: [thesis](../../tags/thesis), [chinese](../../tags/chinese), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)

@@ -10,7 +10,7 @@ categories: uiucthemes
 
 <!--more-->
 
-<p><a href="../../img/portfolio/uiucthemes_html_imetropolis.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_html_imetropolis.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
+<a href="../../img/portfolio/uiucthemes_html_imetropolis.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_html_imetropolis.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
 
 - Class: [slides](../../tags/slides)
 - Package: [uiucthemes](uiucthemes)

@@ -10,7 +10,7 @@ categories: rosr
 
 <!--more-->
 
-<p><a href="../../img/portfolio/rosr_syllabus_svm.png"><img class = "jf-image-shadow" src="../../img/portfolio/rosr_syllabus_svm.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
+<a href="../../img/portfolio/rosr_syllabus_svm.png"><img class = "jf-image-shadow" src="../../img/portfolio/rosr_syllabus_svm.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
 
 - Class: [experimental](../../tags/experimental), [chinese](../../tags/chinese)
 - Package: [rosr](rosr)

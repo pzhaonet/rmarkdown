@@ -10,7 +10,7 @@ Write elegant traditional mails. Multiple themes are available.
 
 <!--more-->
 
-<p><a href="../../img/portfolio/bookdownplus_mail.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_mail.png" style="display: block; margin: auto;" width="60%"  align="left"></a></p>
+<a href="../../img/portfolio/bookdownplus_mail.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_mail.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
 
 - Class: [letter](../../tags/letter)
 - Package: [bookdownplus](bookdownplus)
