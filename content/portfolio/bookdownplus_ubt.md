@@ -10,7 +10,7 @@ Thesis of University of Bayreuth
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_ubt.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_ubt.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_ubt.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [thesis](../../tags/thesis), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)

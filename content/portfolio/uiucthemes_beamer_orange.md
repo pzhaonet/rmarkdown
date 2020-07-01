@@ -10,7 +10,7 @@ Minimialist slides with a color preference to orange.
 
 <!--more-->
 
-<a href="../../img/portfolio/uiucthemes_beamer_orange.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_beamer_orange.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_beamer_orange.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [slides](../../tags/slides), [college](../../tags/college)
 - Package: [uiucthemes](uiucthemes)

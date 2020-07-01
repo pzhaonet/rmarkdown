@@ -10,7 +10,7 @@ Write academic papers of Elsevier journals.
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_elsevier.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_elsevier.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_elsevier.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [article](../../tags/article)
 - Package: [bookdownplus](bookdownplus)

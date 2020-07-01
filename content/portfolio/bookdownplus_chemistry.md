@@ -10,7 +10,7 @@ Write a book with chemical molecular formulae and equations.
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_chemistry.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_chemistry.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_chemistry.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)

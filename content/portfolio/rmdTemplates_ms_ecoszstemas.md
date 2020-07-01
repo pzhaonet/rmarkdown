@@ -10,7 +10,7 @@ categories: rmdTemplates
 
 <!--more-->
 
-<a href="../../img/portfolio/rmdTemplates_ms_ecoszstemas.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmdTemplates_ms_ecoszstemas.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/rmdTemplates_ms_ecoszstemas.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [article](../../tags/article)
 - Package: [rmdTemplates](rmdtemplates)

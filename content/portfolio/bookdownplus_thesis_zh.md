@@ -10,7 +10,7 @@ A simple template for thesis in Chinese. (简单的中文学位论文模板。)
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_thesis_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_thesis_zh.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_thesis_zh.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [thesis](../../tags/thesis), [chinese](../../tags/chinese), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)

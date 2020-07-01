@@ -10,7 +10,7 @@ categories: rmdshower
 
 <!--more-->
 
-<a href="../../img/portfolio/rmdshower_shower.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmdshower_shower.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/rmdshower_shower.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [slides](../../tags/slides)
 - Package: [rmdshower](rmdshower)

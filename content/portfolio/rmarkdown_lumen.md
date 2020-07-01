@@ -10,7 +10,7 @@ categories: rmarkdown
 
 <!--more-->
 
-<a href="../../img/portfolio/rmarkdown_lumen.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmarkdown_lumen.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/rmarkdown_lumen.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [report](../../tags/report)
 - Package: [rmarkdown](rmarkdown)

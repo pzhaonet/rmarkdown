@@ -10,7 +10,7 @@ categories: prettydoc
 
 <!--more-->
 
-<a href="../../img/portfolio/prettydoc_leonids.png"><img class = "jf-image-shadow" src="../../img/portfolio/prettydoc_leonids.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/prettydoc_leonids.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [report](../../tags/report)
 - Package: [prettydoc](prettydoc)

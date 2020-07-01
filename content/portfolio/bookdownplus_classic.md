@@ -10,7 +10,7 @@ Classic thesis.
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_classic.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_classic.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_classic.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)

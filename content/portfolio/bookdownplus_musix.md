@@ -10,7 +10,7 @@ Typesetting music and related stuff.
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_musix.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_musix.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_musix.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)

@@ -10,7 +10,7 @@ Illinois colored header boxes
 
 <!--more-->
 
-<a href="../../img/portfolio/uiucthemes_beamer_illinois.png"><img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_beamer_illinois.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/uiucthemes_beamer_illinois.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [slides](../../tags/slides), [college](../../tags/college)
 - Package: [uiucthemes](uiucthemes)

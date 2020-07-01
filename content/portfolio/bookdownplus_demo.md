@@ -10,7 +10,7 @@ categories: bookdownplus
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_demo.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_demo.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_demo.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [book](../../tags/book)
 - Package: [bookdownplus](bookdownplus)

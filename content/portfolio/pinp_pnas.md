@@ -10,7 +10,7 @@ PNAS Article template
 
 <!--more-->
 
-<a href="../../img/portfolio/pinp_pnas.png"><img class = "jf-image-shadow" src="../../img/portfolio/pinp_pnas.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/pinp_pnas.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [article](../../tags/article)
 - Package: [pinp](pinp)

@@ -10,7 +10,7 @@ Write academic papers in the layout of MDPI journals.
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_mdpi.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_mdpi.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_mdpi.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [article](../../tags/article)
 - Package: [bookdownplus](bookdownplus)

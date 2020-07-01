@@ -10,7 +10,7 @@ Insert chess diagrams.
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_skak.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_skak.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_skak.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [experimental](../../tags/experimental)
 - Package: [bookdownplus](bookdownplus)

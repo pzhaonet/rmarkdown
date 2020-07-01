@@ -10,7 +10,7 @@ A template from Nothing to envy, in Chinese. (中文散文模板。)
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_nte_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nte_zh.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_nte_zh.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [book](../../tags/book), [chinese](../../tags/chinese)
 - Package: [bookdownplus](bookdownplus)

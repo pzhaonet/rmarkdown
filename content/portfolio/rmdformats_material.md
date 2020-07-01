@@ -10,7 +10,7 @@ categories: rmdformats
 
 <!--more-->
 
-<a href="../../img/portfolio/rmdformats_material.png"><img class = "jf-image-shadow" src="../../img/portfolio/rmdformats_material.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/rmdformats_material.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [report](../../tags/report)
 - Package: [rmdformats](rmdformats)

@@ -10,7 +10,7 @@ categories: rticles
 
 <!--more-->
 
-<a href="../../img/portfolio/rticles_ieee_article.png"><img class = "jf-image-shadow" src="../../img/portfolio/rticles_ieee_article.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/rticles_ieee_article.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [article](../../tags/article)
 - Package: [rticles](rticles)

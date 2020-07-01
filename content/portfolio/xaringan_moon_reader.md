@@ -10,7 +10,7 @@ Create slideshows with [remark.js](http://remarkjs.com/) through R Markdown.
 
 <!--more-->
 
-<a href="../../img/portfolio/xaringan_moon_reader.png"><img class = "jf-image-shadow" src="../../img/portfolio/xaringan_moon_reader.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/xaringan_moon_reader.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [slides](../../tags/slides)
 - Package: [xaringan](xaringan)

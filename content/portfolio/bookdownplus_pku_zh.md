@@ -10,7 +10,7 @@ Write a thesis of Peking University with R markdown syntax. (北京大学学位�
 
 <!--more-->
 
-<a href="../../img/portfolio/bookdownplus_pku_zh.png"><img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_pku_zh.png" style="display: block; margin: auto;" width="60%"  align="left"></a>
+<img class = "jf-image-shadow" src="../../img/portfolio/bookdownplus_pku_zh.png" style="display: block; margin: auto;" width="60%"  align="left">
 
 - Class: [thesis](../../tags/thesis), [chinese](../../tags/chinese), [college](../../tags/college)
 - Package: [bookdownplus](bookdownplus)
