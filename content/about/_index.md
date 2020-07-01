@@ -7,15 +7,17 @@ title = "About"
 
 This site is a gallery for R Markdown templates/themes. Currently, 131 [templates/themes](../../portfolio) are collected, including 22 [packages](../../categories) classified in 12 [groups](../../tags).
 
-[R Markdown](https://rmarkdown.rstudio.com/) is a fantastic toolbox in the [R](https://cran.r-project.org/) community. With R Markdown, you can produce a variety of reproducible documents for communication, including reports, scientific manuscripts, journal articles, theses, books, posters, slides, websites, etc., even you do not know how to use R itself. They are platform-independent. This ecosystem is still growing fast. R Markdown is a demonstration that shows how much amazing work [R](https://cran.r-project.org/) can do besides data processing and visualization.
+[R Markdown](https://rmarkdown.rstudio.com/) is a fantastic toolbox in the [R](https://cran.r-project.org/) community. With R Markdown, you can produce a variety of reproducible documents for communication, including reports, scientific manuscripts, journal articles, theses, books, posters, slides, websites, etc., even if you do not know how to use R itself. They are platform-independent. This ecosystem is still growing fast. R Markdown is a demonstration that shows how much amazing work R can do besides data processing and visualization.
 
 The R Markdown world is huge. After years of using R Markdown, I collected many nice packages, templates, and themes. I found it, however, painful to search a suitable template/theme before I started writing something. Sometimes it was like searching the ocean for a needle. I knew it was somewhere, but I had no idea where it was.
 
-The other day @[Cloud2016](https://d.cosx.org/u/Cloud2016) shared [another nice beamer template](https://d.cosx.org/d/421591). I raised the question again, "how do you guys organize your collection of templates?". Later an idea came into my mind: why not build a website?
+The other day @[Cloud2016](https://d.cosx.org/u/Cloud2016) shared [another nice beamer template](https://d.cosx.org/d/421591). I raised the question again, "how do you guys organize your collection of templates?" Later an idea came into my mind: why not build a website?
 
 That is basically why you see this site.
 
-On this site you can view the R Markdown templates by groups, see the live demos, and share your new discoveries.
+On this site you can view the R Markdown templates by groups, see the live demos, and share your new discoveries. This is still far from a complete collection of R Markdown, thus your recommendations would be appreciated. 
+
+Note that the R blogdown package is not displayed on this website, as the [Hugo theme gallery](https://themes.gohugo.io/) is already available. 
 
 ## Navigation
 
@@ -47,8 +49,18 @@ On the template page, you can find the thumbnail, the package name, the author, 
 4. Once inside your new `.Rmd` file, you should see some boilerplate text that includes code chunks. Use the "Knit" button in the RStudio IDE to render the file and preview the output with a single click or use the keyboard shortcut Cmd/Ctrl + Shift + K.
 5. Once a demonstration document is successfully created, you can delete all the text below the YAML frontmatter and fill in your own `.Rmd` by:
    - Adding code chunks (keyboard shortcut: `Ctrl + Alt + I`; OS X: `Cmd + Option + I`),
-   - Writing prose with [Markdown formatting](https://www.markdowntutorial.com/), and
-   - Running each code chunk interactively by clicking the [![The run button](https://camo.githubusercontent.com/5810eee50a88cc3e87ad09099f483fcb02614ecb/68747470733a2f2f726d61726b646f776e2e7273747564696f2e636f6d2f696d616765732f6e6f7465626f6f6b2d72756e2d6368756e6b2e706e67)](https://camo.githubusercontent.com/5810eee50a88cc3e87ad09099f483fcb02614ecb/68747470733a2f2f726d61726b646f776e2e7273747564696f2e636f6d2f696d616765732f6e6f7465626f6f6b2d72756e2d6368756e6b2e706e67) icon within RStudio.
+   - Writing prose with [Markdown formatting](https://www.markdowntutorial.com/).
 
-You can also click "Knit to HTML" again to render the full document with all code chunks. For more help getting started in R Markdown, please see the [R Markdown website](https://rmarkdown.rstudio.com/lesson-1.html).
+For more help getting started in R Markdown, please see the [R Markdown website](https://rmarkdown.rstudio.com/lesson-1.html), or read the following materials.
+
+## Learning materials
+
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="60%"  align="left"></a></p>
+
+<p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-bookdown.jpg" width="60%"  align="left"></a></p>
+
+<p><a href="https://bookdown.org/yihui/blogdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-blogdown.jpg" width="60%"  align="left"></a></p>
+
+<p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="60%"  align="left"></a></p>
+
 
