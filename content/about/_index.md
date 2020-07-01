@@ -51,6 +51,13 @@ On the template page, you can find the thumbnail, the package name, the author, 
 
 For more help getting started in R Markdown, please see the [R Markdown website](https://rmarkdown.rstudio.com/lesson-1.html), or read the section *Learning materials*.
 
+## How to contribute
+
+If you would like to share an R Markdown template/theme, simply follow this procedure:
+
+1. Go to the [GitHub repo of this site](https://github.com/pzhaonet/rmarkdown), and navigate to "[content/portfolio/"](https://github.com/pzhaonet/rmarkdown/tree/master/content/portfolio).
+2. Create a new post in markdown. You could open an existing post such as "[xjtlu_poster.md](https://raw.githubusercontent.com/pzhaonet/rmarkdown/master/content/portfolio/xjtlu_poster.md)", copy everything and paste to your new post, commit the change, and push.
+
 ## Learning materials
 
 <p><a href="https://bookdown.org/yihui/rmarkdown/"><img class = "jf-image-shadow" src="https://openr.pzhao.org/slides/cufe2020/resource/book-rmarkdown.jpg" width="30%"  align="left"></a> </p>
@@ -67,9 +74,3 @@ For more help getting started in R Markdown, please see the [R Markdown website]
 
 <p><a href="https://xuer.pzhao.org"><img src="https://openr.pzhao.org/slides/cufe2020/resource/xuer.jpg" width="30%"  align="left"></a> </p>
 
-## How to contribute
-
-If you would like to share an R Markdown template/theme, simply follow this procedure:
-
-1. Go to the [GitHub repo of this site](https://github.com/pzhaonet/rmarkdown), and navigate to "[content/portfolio/"](https://github.com/pzhaonet/rmarkdown/tree/master/content/portfolio).
-2. Create a new post in markdown. You could open an existing post such as "[xjtlu_poster.md](https://raw.githubusercontent.com/pzhaonet/rmarkdown/master/content/portfolio/xjtlu_poster.md)", copy everything and paste to your new post, commit the change, and push.
